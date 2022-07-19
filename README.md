@@ -5,7 +5,7 @@ word-counter directory:
 $ pip install -r requirements.txt
 
 then just run the command:
-# python3 manage.py runserver
+$ python3 manage.py runserver
 
 and the page will be at http://localhost:8000/polls/
 
